@@ -1,0 +1,1 @@
+console.log(Math.imul(2, 4));
